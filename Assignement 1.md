@@ -534,4 +534,10 @@ def intersection(l1, l2):
 
 print(intersection(l1, l2))
 
-3. [Union de listes](ex4.3)
+3. [Union de listes](.3)ex4
+
+   liste_a = [1, 2, 3, 4] liste_b = [3, 4, 5, 6]
+
+resultat = union_sans_doublon(liste_a, liste_b) print(resultat)
+
+
